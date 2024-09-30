@@ -1,4 +1,4 @@
-#Gerenciador de Tarefas em React
+# Gerenciador de Tarefas em React
 
 Este projeto é um gerenciador de tarefas simples, desenvolvido em React, que permite:
 
